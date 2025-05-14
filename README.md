@@ -1,4 +1,4 @@
-![Header](https://github.com/DenisKai7/DenisKai7/blob/main/assets/banner.png)
+
 # Hi there, I'm Jofanza Denis! 👋
 
 I'm a Ai & SOftware Engineer passionate about AI & Software Development. I love building things and sharing knowledge with the community.
