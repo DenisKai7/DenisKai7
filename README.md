@@ -1,6 +1,6 @@
-# Hi there, I'm [Jofanza Denis]! 👋
+# Hi there, I'm Jofanza Denis! 👋
 
-I'm a [AI & Software Engineer] passionate about [AI & Software Development]. I love building things and sharing knowledge with the community.
+I'm a Ai & SOftware Engineer passionate about AI & Software Development. I love building things and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
