@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an **AI Engineer** and **Software Engineer** with a strong background in Informatics Engineering (GPA 3.9)[cite: 10, 11]. [cite_start]I specialize in designing, developing, and deploying intelligent systems using machine learning and data-driven approaches[cite: 7]. 
+I am an **AI Engineer** and **Software Engineer** with a strong background in Informatics Engineering (GPA 3.9). I specialize in designing, developing, and deploying intelligent systems using machine learning and data-driven approaches. 
 
-[cite_start]My experience ranges from building **Computer Vision** systems (YOLOv8, OCR) to developing full-stack web applications and deploying AI models using **Flask/FastAPI**[cite: 23, 25]. [cite_start]I am also a **Google Student Ambassador**, actively sharing knowledge about Gemini AI and technology[cite: 13, 16].
+My experience ranges from building **Computer Vision** systems (YOLOv8, OCR) to developing full-stack web applications and deploying AI models using **Flask/FastAPI**. I am also a **Google Student Ambassador**, actively sharing knowledge about Gemini AI and technology.
 
 ---
 
@@ -56,25 +56,25 @@
 
 ## 🚀 Featured Projects
 
-[cite_start]Here are some of the projects I've worked on[cite: 47]:
+Here are some of the projects I've worked on:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **ID/KTP Scanner with YOLOv8 & OCR** | [cite_start]AI system to detect ID cards and extract data automatically for form filling[cite: 23, 24, 59]. | YOLOv8m, OCR, Python, Computer Vision |
-| **Tobacco Leaf Quality Detection** | [cite_start]Web-based system to detect the quality of tobacco leaves[cite: 56]. | Web, AI, Image Processing |
-| **UniMatics LMS** | [cite_start]Learning Management System & Interactive Chat Website[cite: 51, 53]. | Fullstack Web Development |
-| **GroUp (Stunting Prevention)** | [cite_start]Mobile application for handling and preventing stunting[cite: 50]. | Mobile Dev |
-| **Movie Recommendation System** | [cite_start]Recommendation engine using Content-Based Filtering[cite: 48]. | Machine Learning, Python |
+| **ID/KTP Scanner with YOLOv8 & OCR** | AI system to detect ID cards and extract data automatically for form filling. | YOLOv8m, OCR, Python, Computer Vision |
+| **Tobacco Leaf Quality Detection** | Web-based system to detect the quality of tobacco leaves. | Web, AI, Image Processing |
+| **UniMatics LMS** | Learning Management System & Interactive Chat Website. | Fullstack Web Development |
+| **GroUp (Stunting Prevention)** | Mobile application for handling and preventing stunting. | Mobile Dev |
+| **Movie Recommendation System** | Recommendation engine using Content-Based Filtering. | Machine Learning, Python |
 
 ---
 
 ## 🏆 Certifications
 
-* [cite_start]**TensorFlow Developer** (DeepLearning.AI) 
-* [cite_start]**Advanced Computer Vision with TensorFlow** 
-* [cite_start]**NLP with Sequence Models & Attention** 
-* [cite_start]**Machine Learning** (Stanford University) 
-* [cite_start]**Google IT Automation with Python** 
+* **TensorFlow Developer** (DeepLearning.AI)
+* **Advanced Computer Vision with TensorFlow**
+* **NLP with Sequence Models & Attention**
+* **Machine Learning** (Stanford University)
+* **Google IT Automation with Python**
 
 ---
 
@@ -99,7 +99,7 @@
 
 ### 💭 Philosophy
 
-> [cite_start]*"Building scalable AI solutions to solve real-world problems."* [cite: 8]
+> *"Building scalable AI solutions to solve real-world problems."*
 
 **Let's Connect & Collaborate!**
 
